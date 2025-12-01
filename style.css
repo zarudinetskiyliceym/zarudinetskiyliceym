@@ -157,6 +157,7 @@ nav {
     display: none;
     position: absolute;
     top: 100%;
+    z-index: 1000;
     left: 0;
     flex-direction: column;
     background: #fff;
@@ -761,3 +762,4 @@ ul {
 .contact-wrapper strong {
   color: #2471a3;
 }
+
